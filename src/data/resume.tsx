@@ -8,7 +8,7 @@ export const DATA = {
   location: "Ho Chi Minh, Viet Nam",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Full Stack Developer.I'm a web developer with 5+ years of experience in C#.NET technologies.",
+    "Full Stack Developer.I'm a web developer with 5+ years of experience in C#.NET technologies. I am currently working remotely for DWS.Cloud. I love this company; it's wonderful to have such friendly and highly skilled colleagues.",
   summary:
     "I have extensive experience in developing and deploying applications on Azure Cloud, leveraging its various services to build scalable and resilient solutions. My expertise includes designing and implementing microservices architectures, ensuring that each service is modular, maintainable, and independently deployable. I am proficient in using Docker for containerization, which streamlines the development, testing, and deployment processes by providing consistent environments across different stages of the software lifecycle. My skill set allows me to deliver robust and efficient web applications that meet modern development standards.",
   avatarUrl: "/me.png",
